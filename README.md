@@ -1,6 +1,6 @@
 <div align="center">
 # yo, I'm Rapid 👋
-</div>
+
 # About Me
 
 • Dutch Developer
@@ -15,6 +15,6 @@ Socials:
 • Youtube: zrapid
 • Website: Soon
 
-<div>
+
 #Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzpid)](https://github.com/anuraghazra/github-readme-stats)
+
