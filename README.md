@@ -1,6 +1,5 @@
 
 # yo, I'm Rapid 👋
-</div>
 
 # About Me
 
