@@ -1,6 +1,7 @@
 
 # yo, I'm Rapid 👋
 </div>
+
 # About Me
 
 • Dutch Developer
